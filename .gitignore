@@ -1,0 +1,14 @@
+# Private account/session data and generated runtime state
+data/*
+!data/.gitkeep
+logs/*
+!logs/.gitkeep
+state.json
+presence.txt
+*.tmp
+
+# nxapi submodule generated files and local npm cache
+runtime/nxapi/node_modules/
+runtime/nxapi/dist/
+runtime/npm-cache/
+runtime/nxapi-local-backup/
