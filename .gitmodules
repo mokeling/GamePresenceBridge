@@ -1,0 +1,3 @@
+[submodule "runtime/nxapi"]
+	path = runtime/nxapi
+	url = https://github.com/samuelthomas2774/nxapi.git

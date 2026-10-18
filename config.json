@@ -1,0 +1,20 @@
+{
+  "poll_interval_seconds": 15,
+  "output_format": "🎮 正在 {platform} 游玩 | {game}",
+  "psn": {
+    "country": "CN",
+    "language": "zh-CN,zh;q=0.9"
+  },
+  "switch": {
+    "platform_2_name": "Switch 2",
+    "platform_default_name": "Switch",
+    "nxapi_package": "@samuel/nxapi@1.6.1-next.257"
+  },
+  "output": {
+    "simplified_chinese": true
+  },
+  "arbitration": {
+    "first_start_tie_preference": "Switch",
+    "persist_last_active_source": true
+  }
+}
